@@ -1,0 +1,10 @@
+@keyframes animação {
+    0% { margin-left:0; }
+    20%{margin-left: 0;}
+    25%{margin-left: -100%;}
+    35%{margin-left: -100%;}
+    50%{margin-left: -200%;}
+    70%{margin-left: -300%;}
+    85%{margin-left: -300%;}
+    100%{margin-left: 0;}
+}

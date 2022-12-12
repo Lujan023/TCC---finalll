@@ -1,0 +1,22 @@
+.carosel {
+    margin-top: 5em;
+    width: 38.5%;
+    height: 400px;
+    background-color: antiquewhite;
+    box-shadow:  0 0 2rem  #ffc9cb;
+    overflow: hidden;
+    border-radius: 25px;
+}
+
+.carosel .fotos {
+    width: 500%;
+    animation-name: animação;
+    animation-duration:30s;
+    animation-iteration-count: infinite;
+
+}
+
+.fotos img{
+    width: 19.97%;
+    height: 400px;
+}
